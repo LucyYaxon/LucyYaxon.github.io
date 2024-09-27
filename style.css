@@ -1,0 +1,28 @@
+table{
+    border-collapse: collapse;
+    margin: 20px;
+}
+
+th{
+    background-color: blueviolet;
+    color: aliceblue;
+    border: solid 1px black;
+    padding: 10px;
+}
+
+td{
+    background-color: rgb(164, 151, 191);
+    color: aliceblue;
+    border: solid 1px black;
+    padding: 10px;
+
+}
+
+td:hover{
+    background-color: mediumslateblue;
+}
+
+th:hover{
+    background-color: rgb(7, 238, 255);
+}
+
